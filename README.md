@@ -296,10 +296,6 @@ src/
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## 📞 Support
 
 Jika mengalami masalah atau butuh bantuan:
